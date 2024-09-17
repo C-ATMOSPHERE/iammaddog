@@ -29,7 +29,6 @@ This script manages the update process by cleaning up old executable files, down
 - **curl**: For downloading updates. If not available, PowerShell is used.
 - **7-Zip**: Optional for extraction.
 - **WinRAR**: Optional for extraction.
-- **PowerShell**: For extraction if 7-Zip and WinRAR are not present.
 
 ## Manual
 
